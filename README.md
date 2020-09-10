@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey 👋, This is Reznik Denis
+[![Gmail Badge](https://img.shields.io/badge/-reznik.d.o12@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:reznik.d.o12@gmail.com)](mailto:reznik.d.o12@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/денис-рєзнік-a178b11b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/денис-рєзнік-a178b11b1/)](https://www.linkedin.com/in/денис-рєзнік-a178b11b1/) [![Github Badge](https://img.shields.io/badge/reznik-denis-grey?style=flat&logo=github&logoColor=white&link=https://github.com/reznik-denis/)](https://www.github.com/reznik-denis/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://reznik-denis.github.io/goit-resume//)](https://reznik-denis.github.io/goit-resume//) <p align='left'>Hello! I am a student of the GoIT academy. At the closest hour I will finish my study and I will be a junior developer.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=reznik-denis alt=reznik-denis /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=reznik-denis&show_icons=true&include_all_commits=true)](https://github.com/reznik-denis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reznik-denis&layout=compact)](https://github.com/reznik-denis/github-readme-stats)
 
 <!--
 **reznik-denis/reznik-denis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
